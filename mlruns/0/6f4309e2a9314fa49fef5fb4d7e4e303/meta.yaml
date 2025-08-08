@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6f4309e2a9314fa49fef5fb4d7e4e303/artifacts
+end_time: 1754375484683
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6f4309e2a9314fa49fef5fb4d7e4e303
+run_name: worried-panda-582
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754375484601
+status: 3
+tags: []
+user_id: HP

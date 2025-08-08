@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d59c05c88a544ba98a34073166ef8c3a/artifacts
+end_time: 1754289569657
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d59c05c88a544ba98a34073166ef8c3a
+run_name: dashing-ray-679
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754289569417
+status: 4
+tags: []
+user_id: HP

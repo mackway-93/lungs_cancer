@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/OneDrive/Desktop/lungs_cancer/mlruns/979871764314954885/models/m-c98026cbf7d24e108439e384fcebd22c/artifacts
+creation_timestamp: 1754633076238
+experiment_id: '979871764314954885'
+last_updated_timestamp: 1754633105564
+model_id: m-c98026cbf7d24e108439e384fcebd22c
+model_type: null
+name: lung_cancer_model
+source_run_id: d5183eba99c14a3cb82cd3918311601a
+status: 3
+status_message: null

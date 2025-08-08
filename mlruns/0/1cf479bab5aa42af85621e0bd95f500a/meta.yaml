@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1cf479bab5aa42af85621e0bd95f500a/artifacts
+end_time: 1754295033275
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cf479bab5aa42af85621e0bd95f500a
+run_name: amazing-foal-228
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754295033045
+status: 4
+tags: []
+user_id: HP

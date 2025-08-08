@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a75a67aa4dc74dafa4eb93d7f3c7a13c/artifacts
+end_time: 1754293041595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a75a67aa4dc74dafa4eb93d7f3c7a13c
+run_name: treasured-auk-702
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754293041341
+status: 4
+tags: []
+user_id: HP

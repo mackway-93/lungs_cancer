@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/25b40e1ff5d44145993edf2ce100260e/artifacts
+end_time: 1754291132475
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 25b40e1ff5d44145993edf2ce100260e
+run_name: mercurial-hog-177
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754291132142
+status: 4
+tags: []
+user_id: HP

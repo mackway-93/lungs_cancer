@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/HP/OneDrive/Desktop/lungs_cancer/mlruns/979871764314954885/models/m-65896e70f6c34538b99d2f39b0ba04be/artifacts
+creation_timestamp: 1754633072625
+experiment_id: '979871764314954885'
+last_updated_timestamp: 1754633106197
+model_id: m-65896e70f6c34538b99d2f39b0ba04be
+model_type: null
+name: lung_cancer_classifier_
+source_run_id: d5183eba99c14a3cb82cd3918311601a
+status: 3
+status_message: null

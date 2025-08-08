@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/edb9b7a2c56a410aaf8b0992157c5600/artifacts
+end_time: 1754378449984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: edb9b7a2c56a410aaf8b0992157c5600
+run_name: mysterious-deer-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754378409162
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/lungs_cancer/mlruns/848630284992249283/c6711116911541a3803362b0bf2a7983/artifacts
+end_time: 1754632745304
+entry_point_name: ''
+experiment_id: '848630284992249283'
+lifecycle_stage: active
+run_id: c6711116911541a3803362b0bf2a7983
+run_name: bustling-sponge-910
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754632703787
+status: 4
+tags: []
+user_id: HP

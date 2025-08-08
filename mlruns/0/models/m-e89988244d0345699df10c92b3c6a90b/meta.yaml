@@ -1,0 +1,10 @@
+artifact_location: mlflow-artifacts:/0/models/m-e89988244d0345699df10c92b3c6a90b/artifacts
+creation_timestamp: 1754378328766
+experiment_id: '0'
+last_updated_timestamp: 1754378370602
+model_id: m-e89988244d0345699df10c92b3c6a90b
+model_type: null
+name: lung_cancer_model
+source_run_id: d2970391ca06407e9c636e40e69360b1
+status: 3
+status_message: null

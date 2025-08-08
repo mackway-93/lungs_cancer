@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6122887a604a460b9486ea38e62b94e5/artifacts
+end_time: 1754631122433
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6122887a604a460b9486ea38e62b94e5
+run_name: nervous-duck-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754631071035
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/d2970391ca06407e9c636e40e69360b1/artifacts
+end_time: 1754378372524
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d2970391ca06407e9c636e40e69360b1
+run_name: selective-boar-110
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754378323938
+status: 3
+tags: []
+user_id: HP

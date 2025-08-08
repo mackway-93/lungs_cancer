@@ -1,0 +1,6 @@
+destination_id: m-45dc17c0b8a74516b36a530e600a6c4a
+destination_type: MODEL_OUTPUT
+source_id: m-45dc17c0b8a74516b36a530e600a6c4a
+source_type: RUN_OUTPUT
+step: 0
+tags: {}

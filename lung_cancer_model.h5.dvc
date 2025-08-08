@@ -1,0 +1,5 @@
+outs:
+- md5: fc2b8f05bd4826f36b09b19cc591c5bb
+  size: 44510296
+  hash: md5
+  path: lung_cancer_model.h5

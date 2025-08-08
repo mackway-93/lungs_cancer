@@ -1,0 +1,6 @@
+destination_id: m-e60a324badcb4998a7b9792855808caf
+destination_type: MODEL_OUTPUT
+source_id: m-e60a324badcb4998a7b9792855808caf
+source_type: RUN_OUTPUT
+step: 0
+tags: {}

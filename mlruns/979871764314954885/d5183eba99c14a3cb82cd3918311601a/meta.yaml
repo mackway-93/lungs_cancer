@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/lungs_cancer/mlruns/979871764314954885/d5183eba99c14a3cb82cd3918311601a/artifacts
+end_time: 1754633106203
+entry_point_name: ''
+experiment_id: '979871764314954885'
+lifecycle_stage: active
+run_id: d5183eba99c14a3cb82cd3918311601a
+run_name: rare-hare-121
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754633072531
+status: 4
+tags: []
+user_id: HP

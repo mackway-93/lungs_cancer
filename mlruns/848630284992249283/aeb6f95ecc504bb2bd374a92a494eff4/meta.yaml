@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/HP/OneDrive/Desktop/lungs_cancer/mlruns/848630284992249283/aeb6f95ecc504bb2bd374a92a494eff4/artifacts
+end_time: 1754632810662
+entry_point_name: ''
+experiment_id: '848630284992249283'
+lifecycle_stage: active
+run_id: aeb6f95ecc504bb2bd374a92a494eff4
+run_name: grandiose-swan-841
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754632769055
+status: 4
+tags: []
+user_id: HP

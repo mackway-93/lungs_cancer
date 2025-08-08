@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a0d6126984bc49a6bf8e2f0f3c6c755f/artifacts
+end_time: 1754378542780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a0d6126984bc49a6bf8e2f0f3c6c755f
+run_name: handsome-auk-645
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754378464147
+status: 3
+tags: []
+user_id: HP

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9310d9db36094ee7873ca50c409bcaf9/artifacts
+end_time: 1754632533225
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9310d9db36094ee7873ca50c409bcaf9
+run_name: flawless-ram-905
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1754632494279
+status: 3
+tags: []
+user_id: HP
